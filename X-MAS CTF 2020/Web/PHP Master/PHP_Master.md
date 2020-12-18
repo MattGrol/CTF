@@ -2,7 +2,7 @@
 
 
 
-<img src="./../../../assets/images/logo_hack3.png" style="margin-left: 20px; zoom: 60%;" align=left />    	
+<img src="./../../../assets/images/logo_hack3.svg" style="margin-left: 20px; zoom: 60%;" align=left />    	
 <div align=right>
                   
 # PHP Master
