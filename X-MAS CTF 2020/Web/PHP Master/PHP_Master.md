@@ -2,11 +2,15 @@
 
 
 
-<img src="CTF/X-MAS CTF 2020/assets/images/logo_hack3.png" style="margin-left: 20px; zoom: 60%;" align=left />    	<font size="20"># PHP Master</font>
+<img src="./../../../assets/images/logo_hack3.png" style="margin-left: 20px; zoom: 60%;" align=left />    	
+<div align=right>
+                  
+# PHP Master
 
-​		DD<sup>th</sup> Month YYYY
+​	DD<sup>th</sup> Month YYYY
 
-​		Challenge Author(s): 
+​	Challenge Author(s): 
+</div>
 
 ​		
 
