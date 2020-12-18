@@ -2,21 +2,14 @@
 
 
 
-<img src="./../../../assets/images/logo_hack3.svg" style="margin-left: 20px; zoom: 60%;" align=left />    	
-<div align=right>
+<img src="./../../../assets/images/logo_hack3.svg" style="margin-left: 20px; zoom: 60%;" align=right />    	
+<div align=left>
                   
 # PHP Master
 
-​	DD<sup>th</sup> Month YYYY
+​DD<sup>th</sup> Month YYYY
 
-​	Challenge Author(s): 
-</div>
-
-​		
-
- 
-
-
+​Challenge Author(s): 
 
 ### Description:
 
@@ -26,13 +19,16 @@ This challenge...
 
 Find a logic bug through source code auditing.
 
-### Difficulty:
-
+### Difficulty: 
 `easy`
 
 ### Flag:
-
 `HTB{s0me_fl4g_her3}`
+</div>
+
+​		
+
+
 
 
 
