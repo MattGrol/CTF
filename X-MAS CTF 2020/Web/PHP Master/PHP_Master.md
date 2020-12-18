@@ -1,4 +1,4 @@
-![](CTF/X-MAS CTF 2020/assets/images/banner_xmas.png)
+![](./../../../assets/images/banner_xmas.png)
 
 
 
