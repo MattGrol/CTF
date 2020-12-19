@@ -62,7 +62,7 @@ This *PHP page* extracts two parameters from the *GET request*, `param1 ($ p1)` 
 4. Check that the first character of *$p1* is different from the character *'0'*.
 5. Check that *$p1* and *$p2* are equal, using `PHP loose comparison (==)`.
 
-# Solver
+# Solution
 The two parameters that respect all the previously mentioned constraints are:
 `param1: 1E0003`
 `param2: 0010E2`
