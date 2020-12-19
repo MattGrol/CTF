@@ -58,7 +58,7 @@ if(strpos($p1, 'e') === false && strpos($p2, 'e') === false  && strlen($p1) === 
 This *PHP page* extracts two parameters from the *GET request*, `param1 ($ p1)` and `param2 ($ p2)` and performs the following *checks* on them:
 1. Check that the *'e'* character is not present in both *$p1* and *$p2*. 
 2. Check that *$p1* and *$p2* have the same length (in number of characters).
-3. Verify that *$p1* and *$p2* are different, using `PHP strict negated comparison  (! ==)`.
+3. Verify that *$p1* and *$p2* are different, using `PHP strict negated comparison  (!==)`.
 4. Check that the first character of *$p1* is different from the character *'0'*.
 5. Check that *$p1* and *$p2* are equal, using `PHP loose comparison (==)`.
 
