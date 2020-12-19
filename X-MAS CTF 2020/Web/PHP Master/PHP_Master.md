@@ -7,24 +7,31 @@
                   
 # PHP Master
 
-​DD<sup>th</sup> Month YYYY
+​11<sup>th</sup> 12 2020
 
-​Challenge Author(s): 
+### Challenge Author(s):
+`yakuhito`
 
 ### Description:
 
-This challenge...
+Another one of *those* challenges.
+
+### Target:
+
+`http://challs.xmas.htsp.ro:3000/`
 
 ### Objective
 
-Find a logic bug through source code auditing.
+Forging a payload capable of bypassing the various filters and checks, in order to have the flag printed.
 
-### Difficulty: 
-`easy`
+### Difficulty/Points: 
+`easy/33`
 
 ### Flag:
-`HTB{s0me_fl4g_her3}`
+`X-MAS{s0_php_m4ny_skillz-69acb43810ed4c42}`
+# 
 </div>
+
 
 ​		
 
