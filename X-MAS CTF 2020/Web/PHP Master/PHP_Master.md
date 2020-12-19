@@ -4,10 +4,10 @@
 
     	
 <div >
-                  
+<div align="center">                  
 # PHP Master
+</div>
 
-​11<sup>th</sup> 12 2020
 
 ### Challenge Author(s):
 `yakuhito`
