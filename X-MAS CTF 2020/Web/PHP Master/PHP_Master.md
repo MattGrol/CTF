@@ -3,41 +3,34 @@
 
 
     	
-<div >
-<div align="center">                  
+
+<p align="center">               
 # PHP Master
-</div>
+</p>
 
 
-### Challenge Author(s):
+## Challenge Author(s):
 `yakuhito`
 
-### Description:
+## Description:
 
 Another one of *those* challenges.
 
-### Target:
+## Target:
 
 `http://challs.xmas.htsp.ro:3000/`
 
-### Objective
+## Objective:
 
 Forging a payload capable of bypassing the various filters and checks, in order to have the flag printed.
 
-### Difficulty/Points: 
+## Difficulty/Points: 
 `easy/33`
 
-### Flag:
+## Flag:
 `X-MAS{s0_php_m4ny_skillz-69acb43810ed4c42}`
 # 
-</div>
-
-
-​		
-
 # Challenge
-
-
 
 # Solver
 
