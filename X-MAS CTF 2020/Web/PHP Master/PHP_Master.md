@@ -2,8 +2,8 @@
 
 
 
-<img src="./../../../assets/images/logo_hack3.svg" style="margin-left: 20px; zoom: 60%;" align=right />    	
-<div align=left>
+    	
+<div >
                   
 # PHP Master
 
@@ -27,10 +27,6 @@ Find a logic bug through source code auditing.
 </div>
 
 ​		
-
-
-
-
 
 # Challenge
 
