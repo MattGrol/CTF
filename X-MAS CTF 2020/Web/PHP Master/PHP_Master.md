@@ -22,7 +22,7 @@ Another one of *those* challenges.
 
 ## Objective:
 
-Forge a payload capable of bypassing the various filters and checks in code, in order to have the flag printed.
+Forge a payload capable of bypassing the various constraints and checks in code, in order to have the flag printed.
 
 ## Difficulty/Points: 
 `easy/33`
