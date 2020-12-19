@@ -33,7 +33,7 @@ Forge a payload capable of bypassing the various constraints and checks in code,
 
 
 # Challenge
-Connecting to the Web Application, the webpage returned is:
+Connecting to the Web Application, the HTML page returned contains the following PHP code:
 ```php
 
 <?php
