@@ -3,11 +3,11 @@
 
 
     	
-
-<p align="center">               
+<p align="center">
+              
 # PHP Master
-</p>
 
+</p>
 
 ## Challenge Author(s):
 `yakuhito`
@@ -30,7 +30,11 @@ Forging a payload capable of bypassing the various filters and checks, in order 
 ## Flag:
 `X-MAS{s0_php_m4ny_skillz-69acb43810ed4c42}`
 # 
+<p align="center">
+
 # Challenge
+
+</p>
 
 # Solver
 
