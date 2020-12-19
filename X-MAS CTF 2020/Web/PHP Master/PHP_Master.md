@@ -13,8 +13,9 @@
 `yakuhito`
 
 ## Description:
-
+```
 Another one of *those* challenges.
+```
 
 ## Target:
 
@@ -38,6 +39,7 @@ Forging a payload capable of bypassing the various filters and checks, in order 
 
 # Solver
 
-```python
+```
+python
 
 ```
